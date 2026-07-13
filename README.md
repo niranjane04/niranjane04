@@ -1,22 +1,24 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=280&section=header&text=Hi%20There,%20I'm%20Nir&fontSize=52&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Systems%20%26%20Software%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+ECE+Engineer+%40+SVCE;DRDO+%7C+Radar+Signal+Processing;Embedded+Systems+%2B+Software+Engineering;Data+Science+%26+AI%2FML+Enthusiast;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
+<br/>
+Show Image
+Show Image
+Show Image
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=280&section=header&text=Hi%2C%20I'm%20Nir&fontSize=52&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Systems%20%26%20Software%20Builder&descAlignY=55)
+<br/>
+<a href="https://your-portfolio-link.example.com"><img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/niranjane-sm-702740348/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:niranjane2004@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/niranjane04"><img src="https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-[![Education](https://img.shields.io/badge/B.E.%20ECE-Sri%20Venkateswara%20College%20of%20Engineering-0f0c29?style=flat-square&labelColor=0f0c29)](#)
-[![Graduation](https://img.shields.io/badge/Graduating-May%202026-8b5cf6?style=flat-square&labelColor=0f0c29)](#)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Location-Chennai,%20Tamil%20Nadu,%20India-7c3aed?style=flat-square&labelColor=0f0c29)](#)
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjane-sm-702740348/)
-[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjane2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjane04)
-
-![Profile Views](https://komarev.com/ghpvc/?username=niranjane04&color=6a0dad&style=flat-square&label=Profile+Views)
-[![Followers](https://img.shields.io/github/followers/niranjane04?style=flat-square&color=8b5cf6&labelColor=0f0c29)](#)
-[![Stars](https://img.shields.io/github/stars/niranjane04?style=flat-square&color=a78bfa&labelColor=0f0c29)](#)
+Show Image
+Show Image
+Show Image
 
 </div>
-
 ---
 
 ## 🪐 About Me
