@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=280&section=header&text=Hi%20There,%20I'm%20Nir&fontSize=52&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Systems%20%26%20Software%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+ECE+Engineer+%40+SVCE;DRDO+%7C+Radar+Signal+Processing;Embedded+Systems+%2B+Software+Engineering;Data+Science+%26+AI%2FML+Enthusiast;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=ECE+Engineer+%40+SVCE;DRDO+%7C+Radar+Signal+Processing;Embedded+Systems+%2B+Software+Engineering;Data+Science+%26+AI%2FML+Enthusiast;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
