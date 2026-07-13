@@ -31,7 +31,7 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/octocat.png" style="display:none" />
 
-I'm a final-year **Electronics and Communication Engineering** student at **Sri Venkateswara College of Engineering (SVCE)**, graduating in **May 2026**, working at the intersection of **embedded systems engineering, signal processing, and software development**. My experience spans applied research at **DRDO (LRDE and DRDL)** and industry exposure at **Prime Edge Info Solution**, where I've built systems that demand precision, real-time performance, and rigorous validation — skills that translate directly into disciplined software and product engineering.
+I recently graduated with a degree in  **Electronics and Communication Engineering** from **Sri Venkateswara College of Engineering (SVCE)**,in **May 2026**, working at the intersection of **embedded systems engineering, signal processing, and software development**. My experience spans applied research at **DRDO (LRDE and DRDL)** and industry exposure at **Prime Edge Info Solution**, where I've built systems that demand precision, real-time performance, and rigorous validation — skills that translate directly into disciplined software and product engineering.
 
 I approach problems with a **systems-first mindset**: understanding constraints deeply, designing for reliability, and iterating with data. I'm actively expanding into **software engineering, data science, and applied AI/ML**, backed by a **Google Data Science Certificate** and hands-on programming across **C, Python, Embedded C, and MATLAB**.
 
