@@ -154,8 +154,7 @@ A conversational AI chatbot project exploring natural language interaction desig
 | Performance | Rule/logic-based response generation |
 | Security | Input sanitization for user queries |
 | Impact | Foundation for applied NLP and conversational AI interest |
-| Repository | `github.com/niranjane04/ai-chatbot` |
-
+| Repository | [github.com/niranjane04/ai-chatbot](https://github.com/niranjane04/ai-chatbot) |
 </details>
 
 <details>
