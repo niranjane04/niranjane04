@@ -138,8 +138,7 @@ A structured database-driven application modeling real-world railway ticket book
 | Performance | Optimized query handling for reservation lookups |
 | Security | Input validation and structured data handling |
 | Impact | Strengthened database design and application logic fundamentals |
-| Repository | `github.com/niranjane04/railway-reservation-system` |
-
+| Repository | [github.com/niranjane04/railway-reservation-system](https://github.com/niranjane04/railway-reservation-system) |
 </details>
 
 <details>
